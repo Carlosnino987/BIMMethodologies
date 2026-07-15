@@ -29,27 +29,28 @@ Quantity estimation of beams, columns, reinforcement, and slabs.s:  <br/>
 <img src="https://imgur.com/wkBI9zF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Quantity estimation of beams, columns, reinforcement, and slabs.s:  <br/>
-<img src="https://imgur.com/wkBI9zF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Clash Colision in PowerBI:  <br/>
+<img src="https://imgur.com/chOA3S9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Video of a Building: <br/>
-  <img src="https://github.com/Carlosnino987/Revit-Projects/blob/main/undefined-Imgur-ezgif.com-optimize.gif" width="80%" alt="Building Animation">
+Clash Colision in Navisworks:  <br/>
+<img src="https://imgur.com/JKyZZKr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Outputs from Revit:  <br/>
-<img src="https://imgur.com/KIiI9mV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Bocatoma:  <br/>
-<img src="https://imgur.com/29BIJTX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Video of Navisworks: <br/>
+  <img src="https://github.com/Carlosnino987/BIMMethodologies/blob/main/sin-movimiento_Q4QEk3Uq-ezgif.com-video-to-gif-converter.gif" width="80%" alt="Building Animation">
 <br />
 <br />
-Revit tools:  <br/>
-<img src="https://imgur.com/NUMN8We.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Plane of AutoCAD:  <br/>
+<img src="https://imgur.com/OtYXvX8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Model in Robot Structural:  <br/>
+<img src="https://imgur.com/oK5TkQv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Importation to Revit:  <br/>
+<img src="https://imgur.com/HvmqY3x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 
 <!--
